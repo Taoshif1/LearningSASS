@@ -1,5 +1,5 @@
 # LearningSASS🎨
-[![Status: Learning Completed (for now!)](https://img.shields.io/badge/Status-Learning%20Completed%20(for%20now!)-brightgreen.svg?style=for-the-badge)](https://github.com/Taoshif1/LearningTS)
+[![Status: Learning Completed (for now!)](https://img.shields.io/badge/Status-Learning%20Completed%20-brightgreen.svg?style=for-the-badge)](https://github.com/Taoshif1/LearningTS)
 
 Welcome to my **LearningSASS** repository — your step-by-step journey into mastering **Syntactically Awesome Style Sheets (SASS)**, the most powerful CSS preprocessor that brings logic, structure and reusability into your styling game.
 
