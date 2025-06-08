@@ -1,42 +1,13 @@
-# LearningSASS
+# LearningSASS🎨
 [![Status: Learning Completed (for now!)](https://img.shields.io/badge/Status-Learning%20Completed%20(for%20now!)-brightgreen.svg?style=for-the-badge)](https://github.com/Taoshif1/LearningTS)
 
-Welcome to my **LearningSASS** repository — your step-by-step journey into mastering **Syntactically Awesome Style Sheets (SASS)**, the most powerful CSS preprocessor that brings logic, structure, and reusability into your styling game.
+Welcome to my **LearningSASS** repository — your step-by-step journey into mastering **Syntactically Awesome Style Sheets (SASS)**, the most powerful CSS preprocessor that brings logic, structure and reusability into your styling game.
 
 ---
 
 ## 🚀 Project Objective
 
 This project is dedicated to learning and applying the core features of **SASS**, from variables and nesting to mixins and functions — all structured with practical, real-world use-cases. It reflects my personal roadmap in becoming a better front-end engineer with maintainable, scalable and DRY (Don't Repeat Yourself) code practices.
-
----
-
-## ✅ Status
-
-**Completed for now**  
-All core SASS concepts have been implemented and tested through examples. More advanced topics or project-level integrations may be added later.
-
----
-
-## 📂 What’s Inside
-
-- ✅ SASS installation & setup (CLI / VS Code)
-- 🔁 Variables, Nesting, Partials, Import
-- ⚙️ Mixins, Extend/Inheritance
-- 🧮 Operators & Functions
-- 🗂️ Modular SASS structure
-
-Code files are neatly organized by topic for clarity and future reference.
-
----
-
-## 🧑‍💻 Author
-
-**Gazi Taoshif**  
-B.Sc. in Computer Science & Engineering  
-Front-end Dev | Growth Hacker | Future CEO  
-📍 Dhaka, Bangladesh  
-GitHub: [@Taoshif1](https://github.com/Taoshif1)
 
 ---
 
@@ -55,31 +26,54 @@ Learning SASS is a must for any developer who wants to go beyond the basics and 
 ## 🛠️ Tools Used
 
 - HTML5 / CSS3
-- SASS (SCSS Syntax)
+- SASS
 - Visual Studio Code
 - Live Server Extension
 
 ---
 
+## 📂 What’s Inside
+
+- ✅ SASS installation & setup
+- 🔁 Variables, Nesting, Partials, Import
+- ⚙️ Mixins, Extend/Inheritance
+- 🧮 Operators & Functions
+- 🗂️ Modular SASS structure
+
+Code files are neatly organized by topic for clarity and future reference.
+
+---
+
+## 📂 Key Concepts Explored
+This repository is structured to cover the essential pillars of the Sass language, providing clear, hands-on examples for each:
+
+- **Variables:** Defining reusable values for colors, fonts and more.
+- **Nesting:** Writing CSS rules with a clear visual hierarchy that mirrors the HTML structure.
+- **Partials & @import:** Modularizing stylesheets into smaller, manageable files.
+- **Mixins:** Creating reusable groups of CSS declarations to streamline development.
+- **Inheritance (@extend):** Sharing sets of CSS properties from one selector to another.
+- **Functions & Operators:** Using built-in functions and performing mathematical calculations directly in your stylesheets.
+
+
+---
+
 ## 🙌 Contributing
 
-This repo is a learning archive, but collaboration is always welcome. Feel free to fork, star ⭐, or suggest improvements!
+This repo is a learning archive but collaboration is always welcome. Feel free to fork, star ⭐ or suggest improvements!
 
 ---
 
-## 📜 License
+## 🧑‍💻 Author
 
-MIT License — free to use and learn from.
+**Gazi Taoshif**  
+B.Sc. in Computer Science & Engineering  
+📍 Dhaka, Bangladesh  
 
 ---
 
-OUTPUT-
+## OUTPUT-
 ![image](https://github.com/user-attachments/assets/2bac2381-9b46-4bc1-83ac-b1cc4b24f5d9)
 
 ---
 
-### **On to the next tech stack, the next project, and the next level 🚀 **  
-
-
-
-
+### **On to the next tech stack, the next project and the next level 🚀 **  
