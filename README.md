@@ -30,12 +30,6 @@ Learning SASS is a must for any developer who wants to go beyond the basics and 
 - Visual Studio Code
 - Live Server Extension
 
-### How to Compile
-To see the magic happen and compile the .scss files into standard CSS, you can use a Sass compiler. If you have Sass installed, run the following command in your terminal:
-
-# To watch a single file for changes and compile it
-sass --watch input.scss output.css
-
 ---
 
 ## 📂 What’s Inside
