@@ -75,4 +75,4 @@ B.Sc. in Computer Science & Engineering
 
 ---
 
-### **On to the next tech stack, the next project and the next level 🚀 **  
+### **On to the next tech stack, the next project and the next level 🚀**  
